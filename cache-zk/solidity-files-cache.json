@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/lexervincent/Desktop/dev/hello-zksync-quickstart/contracts/Coffee.sol": {
-      "lastModificationDate": 1722094837521,
-      "contentHash": "5f2bc3a587840d778c9c09cf9c3f2a83",
+      "lastModificationDate": 1722135301694,
+      "contentHash": "75f42c8b85a479f90f87b0c4d0aa6ff0",
       "sourceName": "contracts/Coffee.sol",
       "solcConfig": {
         "version": "0.8.17",
