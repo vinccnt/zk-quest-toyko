@@ -1,0 +1,26 @@
+node_modules/
+.vscode
+typechain/
+env.json
+.tmp-addresses*.json
+data/gmxMigration
+data/esGmxDistribution
+data/bonds
+data/batchSend
+data/nft
+data/snapshotBalance
+data/holders
+data/contractList
+flattened
+distribution-data*.json
+**/.DS_Store
+deployments/localhost
+#Hardhat files
+cache
+artifacts
+yarn.lock
+.env
+
+
+# hardhat-tenderly plugin
+EOF
