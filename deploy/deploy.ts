@@ -9,7 +9,7 @@ export default async function () {
   // const constructorArguments = [ethers.parseEther('.02').toString()];
   // await deployContract(contractArtifactName, constructorArguments);
 
-  const contractArtifactName = "Coffee";
-  const constructorArguments = [];
+  const contractArtifactName = "MyToken";
+  const constructorArguments = ["0xfdFd2304af41bAf61092d511BfD4caa6cAEC8D86"];
   await deployContract(contractArtifactName, constructorArguments);
 }
