@@ -8,8 +8,8 @@ import { Deployer } from "@matterlabs/hardhat-zksync";
 // It will deploy a CrowdfundingCampaign contract to selected network
 // `parseEther` converts ether to wei, and `.toString()` ensures serialization compatibility.
 export default async function () {
-  const contractArtifactName = "NFT";
-  const constructorArguments = ["ZK_QUEST", "ZKQ", "baseUri"];
+  const contractArtifactName = "Coffee";
+  const constructorArguments = [];
   await deployContract(contractArtifactName, constructorArguments);
 
   // const contractArtifactName = "ZkNFT";
